@@ -23,12 +23,12 @@ VR allows users to move between stores naturally, explore products visually, and
 
 ## 🌟 Key Features
 
-- 🛍️ Virtual marketplace simulating a real-world shopping center.
-- 🧭 Explore multiple Saudi stores in a single VR space.
-- 🎨 Interact with 3D models of products (view, resize, change styles).
-- 🗣️ Virtual guide at each booth: Recorded voice explanations introduce the store’s offerings.
-- 🔊 Traditional Saudi music playing in the background to enhance immersion.
-- 🔗 Direct Web Access: Users can open each store’s official website from inside the VR experience to complete purchases.
+- Virtual marketplace simulating a real-world shopping center.
+- Explore multiple Saudi stores in a single VR space.
+- Interact with 3D models of products (view, resize, change styles).
+- Virtual guide at each booth: Recorded voice explanations introduce the store’s offerings.
+- Traditional Saudi music playing in the background to enhance immersion.
+- Direct Web Access: Users can open each store’s official website from inside the VR experience to complete purchases.
 
 ---
 
