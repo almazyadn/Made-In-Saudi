@@ -35,10 +35,8 @@ VR allows users to move between stores naturally, explore products visually, and
 ## 📽️ Demo
 
 🎬 Project Demo  
-[Made_in_Saudi.MP4](./Made%20in%20Saudi.MP4)
+[Made in Saudi](./Made%20in%20Saudi.MP4)
 
-🖼️ Project Presentation  
-[Made_in_Saudi_Presentation.pdf](./Made_in_Saudi_Presentation.pdf)
 
 ---
 
